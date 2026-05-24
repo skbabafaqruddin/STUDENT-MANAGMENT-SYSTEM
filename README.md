@@ -1,5 +1,17 @@
 
 
+Student Management System
+# dictionary to store student records
+# Conditional statements to perform operations based on user input
+# loops
+
+
+# Teacher :
+# ADD STUDENTS
+# VIEW STUDENTS
+# CHECK RESULTS
+# EXIT 
+
 
 
 
